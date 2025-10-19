@@ -23,20 +23,7 @@ This profile highlights projects I’m proud of, what I’m learning next, and h
 **DevOps:** <!-- e.g. Docker, GitHub Actions, Terraform, AWS/GCP/Azure -->  
 **Testing:** <!-- e.g. Jest, Vitest, Playwright, pytest -->  
 
-## 🗂 Featured projects
-- **Project Name** — one-liner on what it does and who it’s for.  
-  `tech • here` · [Repo](#) · [Demo](#)
-- **Project Name** — what makes it interesting/unique.  
-  `tech • here` · [Repo](#) · [Docs](#)
-- **Project Name** — current status & roadmap note.  
-  `tech • here` · [Repo](#)
-
 > Tip: pin these repos on your profile so they appear at the top.
-
-## 📈 By the numbers (optional)
-<!-- Remove this section if you prefer a minimalist profile -->
-![GitHub Streak](https://streak-stats.demolab.com?user=haakon-andre&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haakon-andre&layout=compact&hide_border=true)
 
 ## ✍️ Writing & notes
 - **Post/Note Title** — short description · [Read more](#)
